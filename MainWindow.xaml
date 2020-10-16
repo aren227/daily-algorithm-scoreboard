@@ -1,0 +1,32 @@
+﻿<Window x:Class="DailyAlgorithmWPF.MainWindow"
+        xmlns="http://schemas.microsoft.com/winfx/2006/xaml/presentation"
+        xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml"
+        xmlns:d="http://schemas.microsoft.com/expression/blend/2008"
+        xmlns:mc="http://schemas.openxmlformats.org/markup-compatibility/2006"
+        xmlns:local="clr-namespace:DailyAlgorithmWPF"
+        mc:Ignorable="d"
+        Title="MainWindow" Height="500" Width="300" Background="#40000000" AllowsTransparency="True" WindowStyle="None" MouseDown="Window_MouseDown" ShowInTaskbar="False" MouseUp="Window_MouseUp">
+    <StackPanel>
+
+        <Label x:Name="ndays" Content="알고리즘 폐관수련 n일차" Margin="0" Padding="2" VerticalAlignment="Top" Foreground="White" FontSize="22" FontFamily="메이플스토리" HorizontalContentAlignment="Center"/>
+
+        <StackPanel Orientation="Horizontal" Margin="0, 7, 0, 0">
+            <StackPanel>
+                <Label x:Name="total_solved" Padding="2" Content="Total Solved" Foreground="#69a7ff" FontSize="14" FontFamily="메이플스토리" HorizontalContentAlignment="Center" Width="150" />
+                <Label x:Name="total_solved_count" Padding="0" Content="0" Foreground="#69a7ff" FontSize="40" FontFamily="메이플스토리" FontWeight="DemiBold" HorizontalContentAlignment="Center" Width="150" />
+            </StackPanel>
+
+            <StackPanel>
+                <Label x:Name="daily_solved" Padding="2" Content="Daily Solved" Foreground="#69a7ff" FontSize="14" FontFamily="메이플스토리" HorizontalContentAlignment="Center" Width="150" />
+                <Label x:Name="daily_solved_count" Padding="0" Content="0" Foreground="#69a7ff" FontSize="40" FontFamily="메이플스토리" FontWeight="DemiBold" HorizontalContentAlignment="Center" Width="150" />
+            </StackPanel>
+        </StackPanel>
+
+        <Label x:Name="content" Content="활동 기록" Margin="0, 5, 0, 0" Padding="2" VerticalAlignment="Top" Foreground="White" FontSize="14" FontFamily="메이플스토리" HorizontalContentAlignment="Center"/>
+
+        <StackPanel x:Name="feed" CanVerticallyScroll="True">
+
+        </StackPanel>
+
+    </StackPanel>
+</Window>
