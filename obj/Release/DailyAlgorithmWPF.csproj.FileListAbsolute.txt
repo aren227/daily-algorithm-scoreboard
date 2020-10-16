@@ -1,0 +1,15 @@
+C:\Users\mathd\source\repos\DailyAlgorithmWPF\DailyAlgorithmWPF\bin\Release\DailyAlgorithmWPF.exe.config
+C:\Users\mathd\source\repos\DailyAlgorithmWPF\DailyAlgorithmWPF\bin\Release\DailyAlgorithmWPF.exe
+C:\Users\mathd\source\repos\DailyAlgorithmWPF\DailyAlgorithmWPF\bin\Release\DailyAlgorithmWPF.pdb
+C:\Users\mathd\source\repos\DailyAlgorithmWPF\DailyAlgorithmWPF\obj\Release\DailyAlgorithmWPF.csprojAssemblyReference.cache
+C:\Users\mathd\source\repos\DailyAlgorithmWPF\DailyAlgorithmWPF\obj\Release\MainWindow.g.cs
+C:\Users\mathd\source\repos\DailyAlgorithmWPF\DailyAlgorithmWPF\obj\Release\App.g.cs
+C:\Users\mathd\source\repos\DailyAlgorithmWPF\DailyAlgorithmWPF\obj\Release\DailyAlgorithmWPF_MarkupCompile.cache
+C:\Users\mathd\source\repos\DailyAlgorithmWPF\DailyAlgorithmWPF\obj\Release\DailyAlgorithmWPF_MarkupCompile.lref
+C:\Users\mathd\source\repos\DailyAlgorithmWPF\DailyAlgorithmWPF\obj\Release\MainWindow.baml
+C:\Users\mathd\source\repos\DailyAlgorithmWPF\DailyAlgorithmWPF\obj\Release\DailyAlgorithmWPF.g.resources
+C:\Users\mathd\source\repos\DailyAlgorithmWPF\DailyAlgorithmWPF\obj\Release\DailyAlgorithmWPF.Properties.Resources.resources
+C:\Users\mathd\source\repos\DailyAlgorithmWPF\DailyAlgorithmWPF\obj\Release\DailyAlgorithmWPF.csproj.GenerateResource.cache
+C:\Users\mathd\source\repos\DailyAlgorithmWPF\DailyAlgorithmWPF\obj\Release\DailyAlgorithmWPF.csproj.CoreCompileInputs.cache
+C:\Users\mathd\source\repos\DailyAlgorithmWPF\DailyAlgorithmWPF\obj\Release\DailyAlgorithmWPF.exe
+C:\Users\mathd\source\repos\DailyAlgorithmWPF\DailyAlgorithmWPF\obj\Release\DailyAlgorithmWPF.pdb
